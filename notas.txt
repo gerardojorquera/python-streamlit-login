@@ -1,0 +1,2 @@
+Prueba ingresando las credenciales válidas declaradas en el diccionario USER_CREDENTIALS 
+(por ejemplo, usuario: gerardo y contraseña: python123)
