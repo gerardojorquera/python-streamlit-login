@@ -1,2 +1,14 @@
+# Ejecutar: streamlit run app.py
+
 Prueba ingresando las credenciales válidas declaradas en el diccionario USER_CREDENTIALS 
 (por ejemplo, usuario: gerardo y contraseña: python123)
+
+Pasos para ejecutar el proyecto
+-------------------------------
+- Abrir la terminal: Entra a la carpeta donde guardaste tu archivo de Python (por ejemplo, app.py).
+ 
+- Instalar Streamlit: Si no lo tienes instalado, escribe pip install streamlit y presiona Enter.
+ 
+- Ejecutar el script: Escribe el comando streamlit run app.py (cambia app.py por el nombre real de tu archivo).
+ 
+- Ver la aplicación: Se abrirá de forma automática una pestaña en tu navegador web con la interfaz de tu proyecto.
